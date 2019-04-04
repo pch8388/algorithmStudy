@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/linkedList.dir/data_structure/linkedList.c.o  -o linkedList 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/algo_1924.dir/algorithm/algo_1924.c.o  -o algo_1924 

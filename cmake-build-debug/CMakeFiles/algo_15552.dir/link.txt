@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/algo_15552.dir/algorithm/algo_15552.c.o  -o algo_15552 

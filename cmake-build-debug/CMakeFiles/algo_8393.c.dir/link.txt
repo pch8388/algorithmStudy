@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/algo_8393.c.dir/algorithm/algo_8393.c.o  -o algo_8393.c 

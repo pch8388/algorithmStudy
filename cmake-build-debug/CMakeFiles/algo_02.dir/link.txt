@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/algo_02.dir/algorithm/algo_02.c.o  -o algo_02 

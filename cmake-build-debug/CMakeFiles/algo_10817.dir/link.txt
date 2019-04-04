@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/algo_10817.dir/algorithm/algo_10817.c.o CMakeFiles/algo_10817.dir/algorithm/algo_10871.c.o  -o algo_10817 
