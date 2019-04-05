@@ -3,3 +3,5 @@
 
 CMakeFiles/algo_10871.dir/algorithm/algo_10871.c.o: ../algorithm/algo_10871.c
 
+CMakeFiles/algo_10871.dir/algorithm/algo_1546.c.o: ../algorithm/algo_1546.c
+

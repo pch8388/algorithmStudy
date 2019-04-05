@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/ksc/dev/workspace/CLang/algorithm/algo_10871.c" "/home/ksc/dev/workspace/CLang/cmake-build-debug/CMakeFiles/algo_10871.dir/algorithm/algo_10871.c.o"
-  "/home/ksc/dev/workspace/CLang/algorithm/algo_1546.c" "/home/ksc/dev/workspace/CLang/cmake-build-debug/CMakeFiles/algo_10871.dir/algorithm/algo_1546.c.o"
+  "/home/ksc/dev/workspace/CLang/algorithm/algo_1546.c" "/home/ksc/dev/workspace/CLang/cmake-build-debug/CMakeFiles/algo_1546.dir/algorithm/algo_1546.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

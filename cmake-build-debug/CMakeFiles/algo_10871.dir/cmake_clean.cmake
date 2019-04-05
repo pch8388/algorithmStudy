@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/algo_10871.dir/algorithm/algo_10871.c.o"
+  "CMakeFiles/algo_10871.dir/algorithm/algo_1546.c.o"
   "algo_10871.pdb"
   "algo_10871"
 )

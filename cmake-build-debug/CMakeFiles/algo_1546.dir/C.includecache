@@ -6,12 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/ksc/dev/workspace/CLang/algorithm/algo_10871.c
-stdio.h
--
-stdlib.h
--
-
 /home/ksc/dev/workspace/CLang/algorithm/algo_1546.c
 stdio.h
 -
