@@ -6,8 +6,8 @@ int main() {
     for (int i = 0; i < a; i++) {
         scanf("%d", &arr[i]);
     }
-    for (int j = 0; j < a; j++) {
-        for (int i = 0; i < a-1; i++) {
+    for (int j = a-1; j > 0; j--) {
+        for (int i = 0; i < j; i++) {
             if (arr[i] > arr[i+1]) {
                 int temp = arr[i];
                 arr[i] = arr[i+1];
